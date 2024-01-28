@@ -3,6 +3,10 @@ updated: '2024-01-29 00:19:23'
 permalink: /post/12-radiation-degree-learning-z1gurim.html
 comments: true
 toc: true
+tags:
+  - 辐射度量学
+categories:
+  - 转载
 date: 2023-12-26 23:25:31
 ---
 
