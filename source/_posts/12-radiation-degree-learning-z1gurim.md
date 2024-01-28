@@ -1,10 +1,9 @@
----
 title: 1.2 辐射度量学
-date: '2023-12-26 23:25:31'
 updated: '2024-01-29 00:19:23'
 permalink: /post/12-radiation-degree-learning-z1gurim.html
 comments: true
 toc: true
+date: 2023-12-26 23:25:31
 ---
 
 # 1.2 辐射度量学
