@@ -110,3 +110,8 @@ hexo_pro:
   password: 528528
   avatar: ''
   secret: image for your own avata
+
+search:
+  path: search.xml
+  field: post
+  content: true
